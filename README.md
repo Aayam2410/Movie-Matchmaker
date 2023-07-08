@@ -1,4 +1,4 @@
-# Movie Recommender System :film_projector:
+# Movie Matchmaker :film_projector:
 
 This project is a movie recommender system built using Python and various libraries, employing machine learning techniques and an API call. The system utilizes the Streamlit library for the user interface and is designed to provide personalized movie recommendations based on user preferences.
 
@@ -12,7 +12,7 @@ This project is a movie recommender system built using Python and various librar
 
 ## Prerequisites :memo:
 
-To run this movie recommender system on your local machine, you need to have the following installed:
+To run this movie matchmaker system on your local machine, you need to have the following installed:
 
 - Python (version 3.6 or higher)
 - Virtual environment (optional but recommended)
